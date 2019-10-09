@@ -1,0 +1,11 @@
+# Layout
+layout : center-right
+
+# Look-and-Feel
+logo : blbit-logo.png
+theme : night
+highlight : ir-black
+
+# Behavior
+transition : none
+published : true
