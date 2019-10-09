@@ -19,7 +19,8 @@
 - Sinergija, 16-18.10, Beograd Srbija - https://sinergija.live/
 - MSCommunity, 25.10, Sarajevo BiH - http://mscommunity.ba/
 - Advanced Technology Days, 4-5.12, Zagreb Hrvatska - https://advtechdays.com/
-- SQLSaturday, 14.12., Ljubljana Slovenija - https://www.sqlsaturday.com/910/EventHome.aspx
+- SQLSaturday, 14.12., Ljubljana Slovenija 
+    - https://www.sqlsaturday.com/910/EventHome.aspx
 
 ---
 
